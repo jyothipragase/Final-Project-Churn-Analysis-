@@ -18,10 +18,10 @@ The problem at hand is to analyze customer churn for a telecommunications compan
 
 **Visualization — Report**
 I started the report by creating a few DAX measures.
-DAX simply means Data Analysis Expression. It is an expression that helps with calculations while building report. The three I created were:
+DAX simply means Data Analysis Expression. It is an expression that helps with calculations while building report. I created various measures for the requirement of the visualization:
 - Customers(Number of customers)
 - Churn rate (%)
-- Customers Churned
+- Customers Churned and etc,.
 
 Finally, I built the report in the screenshot below, taking into account the key factors like average income, avg monthly charges, age group, activity status, gender, credit score, e.t.c. and their effects on the churn rate. This helped me gain insights about the process
 ![Screenshot 2024-06-01 123131](https://github.com/jyothipragase/Final-Project-Churn-Analysis-/assets/164172544/0b0f789c-a8c8-4e16-bea7-26df26702f1c)
