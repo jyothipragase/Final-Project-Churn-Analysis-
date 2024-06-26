@@ -32,8 +32,8 @@ In this Power BI analysis, I went through some major data analysis process to ge
 With this report, we can better manage the churn situation, by focusing on the key factors and evaluating the results of their changes periodically.
 
 **Business Insights and Recommendations**
--The business can use this model to identify customers who may churn.
--Business may provide introductory offers to attract new customers and exclusive offers to existing new customers.
--Marketing team can target Single/M customers with special discounts on paid channels and/or movies to customers.
--Provide targeted offers to Female customers from the Regular account segments.
--Also provide exclusive family offers for Married customers as churn rate is higher among them.
+- The business can use this model to identify customers who may churn.
+- Business may provide introductory offers to attract new customers and exclusive offers to existing new customers.
+- Marketing team can target Single/M customers with special discounts on paid channels and/or movies to customers.
+- Provide targeted offers to Female customers from the Regular account segments.
+- Also provide exclusive family offers for Married customers as churn rate is higher among them.
